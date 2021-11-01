@@ -1,0 +1,31 @@
+
+
+{
+  "CONTRACT_ADDRESS": "0x66E51987d55dA3D382b6695572eCD21d449cCd05",
+  "OWNER_ADDRESS": "0x934c2278895066cd93e66960fCFcFb3F8a9fDF21",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x66E51987d55dA3D382b6695572eCD21d449cCd05",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Clone",
+  "SYMBOL": "clone",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000,
+  "COST0": 0,
+
+  "COST1": 100000000000000,
+  "COST2": 200000000000000,
+  "COST3": 300000000000000,
+  "COST4": 400000000000000,
+
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lionft",
+  "SHOW_BACKGROUND": true
+
+
+} 
+
